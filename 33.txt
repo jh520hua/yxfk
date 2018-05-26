@@ -12,4 +12,9 @@ merg4
 
 merg2
 
+<<<<<<< Updated upstream
 merg7
+=======
+
+merg6
+>>>>>>> Stashed changes
